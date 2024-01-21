@@ -4,12 +4,16 @@ Welcome to the repository for the Blueberry Pill Dispenser, a revolutionary pill
 
 ## Technology Stack
 **Frontend**: HTML, CSS, React.js
+
 **Backend**: Node.js
+
 **Deployment**: Not currently deployed
 
 ## Features
 **Informative Landing Page:** Detailed information about the Blueberry Pill Dispenser, its benefits, and how it revolutionizes pill dispensing.
+
 **Mailing List Subscription:** Allows visitors to subscribe to our mailing list for updates and news.
+
 **Responsive Design:** Ensures a seamless experience across various devices and screen sizes.
 
 ## Development and Adaptation
